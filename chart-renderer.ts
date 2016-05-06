@@ -1,5 +1,6 @@
+
 import { Component, OnInit, OnDestroy,
-    EventEmitter, ElementRef, Inject} from "@angular/core";
+    EventEmitter, ElementRef, Inject} from '@angular/core';
 
 import { CORE_DIRECTIVES, FORM_DIRECTIVES, NgClass } from '@angular/common';
 
